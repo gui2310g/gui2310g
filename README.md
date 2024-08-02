@@ -1,10 +1,10 @@
 # Olá, eu sou Guilherme Fontes! / Hello, I'm Guilherme Fontes👋
 
 ## 🚀 Sobre mim / About Me
-Formado em Analise e Desenvolvimento de Sistemas na Uniasselvi, sou Desenvolvedor Web com experiencia em Html / CSS / JS / React / MySQL, alem de possuir conhecimento em PHP / Laravel / Node.js / MongoDB e estudando Java e Spring Boot. Espanhol e Ingles Conversacional. Gosto de muito aprender e apto em uma oportunidade profissional 
+Formado em Analise e Desenvolvimento de Sistemas na Uniasselvi, sou Desenvolvedor Web com experiencia em Html / CSS / JS / React / MySQL, alem de possuir conhecimento em  Node.js / MongoDB / Java e Spring Boot e estudando C#. Espanhol e Ingles Conversacional. Gosto de muito aprender e apto em uma oportunidade profissional 
 
 Software developer with a degree in Systems Analysis and Development from Uniasselvi.
-Experience in Html / CSS / JS / React / MySQL, and knowledge of  Node, MongoDB, PHP and Laravel and studying Java and Spring Boot.
+Experience in Html / CSS / JS / React / MySQL, and knowledge of  Node, MongoDB, / Java / Spring Boot and studying C#.
 Conversational Spanish and English. i like to learn and ready for a new profissional opportunity
 
 ## 🔗 Conecte-se Comigo / Connect with me
