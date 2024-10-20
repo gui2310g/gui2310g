@@ -1,11 +1,11 @@
 # Olá, eu sou Guilherme Fontes! / Hello, I'm Guilherme Fontes👋
 
 ## 🚀 Sobre mim / About Me
-Formado em Analise e Desenvolvimento de Sistemas na Uniasselvi, sou Desenvolvedor Web com experiencia em Html / CSS / JS / React / MySQL, alem de possuir conhecimento em  Node.js / MongoDB / Java e Spring Boot e estudando C#. Espanhol e Ingles Conversacional. Gosto de muito aprender e apto em uma oportunidade profissional 
+Formado em Analise e Desenvolvimento de Sistemas na Uniasselvi, trabalho em ferramentas como  Html / CSS / JS / Angular / Java / Spring Boot e PostgreSQL, alem de possuir conhecimento em  Node.js / MongoDB / Typescript. Espanhol e Ingles Conversacional. Gosto de muito aprender e apto em uma oportunidade profissional 
 
 Software developer with a degree in Systems Analysis and Development from Uniasselvi.
-Experience in Html / CSS / JS / React / MySQL, and knowledge of  Node, MongoDB, / Java / Spring Boot and studying C#.
-Conversational Spanish and English. i like to learn and ready for a new profissional opportunity
+Experience in Html / CSS / JS / Angular / Java / Spring Boot and PostgreSQL, and knowledge of  Node, MongoDB, / Typescript.
+Conversational Spanish and English. i like to learn and ready for a new profissional opportunity 
 
 ## 🔗 Conecte-se Comigo / Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-campo-873890255/)
@@ -16,7 +16,6 @@ Conversational Spanish and English. i like to learn and ready for a new profissi
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gui2310g&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&display=flex)
 ### Front-End
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
