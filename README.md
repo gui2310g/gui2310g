@@ -1,10 +1,10 @@
 # Olá, eu sou Guilherme Fontes! / Hello, I'm Guilherme Fontes👋
 
 ## 🚀 Sobre mim / About Me
-Formado em Analise e Desenvolvimento de Sistemas na Uniasselvi, trabalho em ferramentas como  Html / CSS / JS / Angular / Java / Spring Boot e PostgreSQL, alem de possuir conhecimento em  Node.js / MongoDB / Typescript. Espanhol e Ingles Conversacional. Gosto de muito aprender e apto em uma oportunidade profissional 
+Formado em Analise e Desenvolvimento de Sistemas na Uniasselvi, trabalho em ferramentas como  Angular / Java / Spring Boot / React e PostgreSQL, alem de possuir conhecimento em  Node.js / MongoDB / Typescript. Espanhol e Ingles Conversacional. Gosto de muito aprender e apto em uma oportunidade profissional 
 
 Software developer with a degree in Systems Analysis and Development from Uniasselvi.
-Experience in Html / CSS / JS / Angular / Java / Spring Boot and PostgreSQL, and knowledge of  Node, MongoDB, / Typescript.
+Experience in Angular / Java / Spring Boot / React and PostgreSQL, and knowledge of  Node, MongoDB, Typescript.
 Conversational Spanish and English. i like to learn and ready for a new profissional opportunity 
 
 ## 🔗 Conecte-se Comigo / Connect with me
@@ -17,6 +17,7 @@ Conversational Spanish and English. i like to learn and ready for a new profissi
 ### Front-End
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ## Back-End
