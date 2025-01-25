@@ -38,7 +38,7 @@ Conversational Spanish and English. i like to learn and ready for a new profissi
 
 ## Meus Projetos / My Projects
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gui2310g&repo=api-gameslib&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/gui2310g/api_gameslib)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gui2310g&repo=api_gameslib&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/gui2310g/api_gameslib)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gui2310g&repo=spa-gameslib&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/gui2310g/spa-gameslib)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gui2310g&repo=Finans&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/gui2310g/Finans)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gui2310g&repo=TwitterClone&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/gui2310g/TwitterClone)
