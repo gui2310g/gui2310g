@@ -1,7 +1,7 @@
 # Olá, eu sou Guilherme Fontes! / Hello, I'm Guilherme Fontes👋
 
 ## 🚀 Sobre mim / About Me
-Formado em Analise e Desenvolvimento de Sistemas na Uniasselvi, trabalho em ferramentas como  Angular / Java / Spring Boot / React e PostgreSQL, alem de possuir conhecimento em  Node.js / MongoDB / Typescript. Espanhol e Ingles Conversacional. Gosto de muito aprender e apto em uma oportunidade profissional 
+Formado em Analise e Desenvolvimento de Sistemas na Uniasselvi, Dev Full Stack com foco em Back-End, trabalho em ferramentas como  Angular / Java / Spring Boot / Node / PostgreSQL / Git e Docker, Espanhol e Ingles Conversacional. Gosto de muito aprender e apto em uma oportunidade profissional 
 
 Software developer with a degree in Systems Analysis and Development from Uniasselvi.
 Experience in Angular / Java / Spring Boot / React and PostgreSQL, and knowledge of  Node, MongoDB, Typescript.
@@ -17,7 +17,6 @@ Conversational Spanish and English. i like to learn and ready for a new profissi
 ### Front-End
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ## Back-End
@@ -26,20 +25,16 @@ Conversational Spanish and English. i like to learn and ready for a new profissi
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Nest](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
-## Banco de dados / Database
+## Ferramentas
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-## Ferramentas / Tools
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gui2310g)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
 ## Meus Projetos / My Projects
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gui2310g&repo=api_gameslib&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/gui2310g/api_gameslib)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gui2310g&repo=spa-gameslib&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/gui2310g/spa-gameslib)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gui2310g&repo=Finans&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/gui2310g/Finans)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gui2310g&repo=api_gerenciamentotarefas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/gui2310g/api_gerenciamentotarefas)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gui2310g&repo=spa-gerenciamentotarefas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/gui2310g/spa-gerenciamentotarefas)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gui2310g&repo=sistema-financeiro&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/gui2310g/sistema-financeiro)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gui2310g&repo=TwitterClone&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/gui2310g/TwitterClone)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gui2310g&repo=api-TwitterClone&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/gui2310g/api-TwitterClone)
