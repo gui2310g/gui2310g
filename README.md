@@ -4,7 +4,7 @@
 Formado em Analise e Desenvolvimento de Sistemas na Uniasselvi, Dev Full Stack com foco em Back-End, trabalho em ferramentas como  Angular / Java / Spring Boot / Node / PostgreSQL / Git e Docker, Espanhol e Ingles Conversacional. Gosto de muito aprender e apto em uma oportunidade profissional 
 
 Software developer with a degree in Systems Analysis and Development from Uniasselvi.
-Experience in Angular / Java / Spring Boot / React and PostgreSQL, and knowledge of  Node, MongoDB, Typescript.
+Experience in Angular / Java / Spring Boot / Node / PostgreSQL / Git and Docker, and knowledge of  Node, MongoDB, Typescript.
 Conversational Spanish and English. i like to learn and ready for a new profissional opportunity 
 
 ## 🔗 Conecte-se Comigo / Connect with me
